@@ -2,7 +2,7 @@
 
 Software Developer with a Mechanical Engineering background, focused on building systems that solve real-world operational problems.
 
-I currently work on healthcare information exchange software used by the Dutch national health system (LSP), with hands-on experience in backend development, interoperability standards, and full-stack product delivery.
+I currently work on the healthcare information exchange software used by the Dutch national health system (LSP), with hands-on experience in backend development, interoperability standards, and full-stack product delivery.
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
